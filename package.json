@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Minimal VLESS + WebSocket node for Pxxl free plan (Node.js, no Docker)","engines":{"node":">=18"},"main":"server.js","name":"pxxl-vless-node","scripts":{"start":"node server.js"},"version":"1.0.0"}
